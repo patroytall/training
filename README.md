@@ -1,3 +1,3 @@
 # training
 
-Code sample to illustrate good coding practices.
+Code samples to illustrate good coding practices.
